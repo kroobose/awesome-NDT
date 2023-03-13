@@ -1,5 +1,5 @@
 # awesome-NDT
-About A collection of AWESOME things about ML for non-destructive testing
+A collection of AWESOME things about ML for non-destructive testing
 # Contents
 
 - [awesome-NDT](#awesome-ndt)
